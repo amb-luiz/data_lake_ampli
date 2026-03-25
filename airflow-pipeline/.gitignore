@@ -1,0 +1,6 @@
+.git
+.env
+logs
+plugins
+dags/dag_sync_variables.py
+dags/variables.json
